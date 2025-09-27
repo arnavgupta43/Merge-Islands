@@ -166,22 +166,6 @@ void checkAndMerge(int r, int c, char playerChar) {
 2. **Mid-game**: Build large territories before making contact
 3. **Endgame**: Force favorable engagements with size superiority
 
-## 📁 Project Structure
-
-```
-territory-conquest-game/
-├── src/
-│   ├── territory_conquest.cpp    # Main game implementation
-│   ├── dsu.h                    # Union-Find data structure
-│   └── game.h                   # Game logic and mechanics
-├── docs/
-│   ├── algorithm_analysis.md    # Detailed complexity analysis
-│   └── strategy_guide.md        # Strategic gameplay guide  
-├── tests/
-│   └── unit_tests.cpp          # Algorithm correctness tests
-├── README.md                    # This file
-└── LICENSE                      # MIT License
-```
 
 ## 🔬 Technical Specifications
 
